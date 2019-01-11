@@ -5,7 +5,7 @@ public class Laberino {
 		// TODO Auto-generated method stub
 		System.out.println("I like the way you move.");
         System.out.println("jk i dont like it");
-        System.out.println("plz for the love of god work");
+        System.out.println("plz for the love");
 	}
 
 }
